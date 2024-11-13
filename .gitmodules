@@ -1,0 +1,12 @@
+[submodule "go"]
+	path = go
+	url = git@github.com:sweetrpg/model-core.go.git
+[submodule "python"]
+	path = python
+	url = git@github.com:sweetrpg/model-core.py.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:sweetrpg/model-core.rs.git
+[submodule "swift"]
+	path = swift
+	url = git@github.com:sweetrpg/model-core.swift.git
